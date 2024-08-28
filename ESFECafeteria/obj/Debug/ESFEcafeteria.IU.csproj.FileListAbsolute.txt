@@ -1,0 +1,14 @@
+C:\Users\Adri\Desktop\ESFECafeteria\obj\Debug\ESFEcafeteria.IU.csproj.AssemblyReference.cache
+C:\Users\Adri\Desktop\ESFECafeteria\obj\Debug\ESFECafeteria.Login.resources
+C:\Users\Adri\Desktop\ESFECafeteria\obj\Debug\ESFECafeteria.Properties.Resources.resources
+C:\Users\Adri\Desktop\ESFECafeteria\obj\Debug\ESFEcafeteria.IU.csproj.GenerateResource.cache
+C:\Users\Adri\Desktop\ESFECafeteria\obj\Debug\ESFEcafeteria.IU.csproj.CoreCompileInputs.cache
+C:\Users\Adri\Desktop\ESFECafeteria\bin\Debug\ESFECafeteria.exe.config
+C:\Users\Adri\Desktop\ESFECafeteria\bin\Debug\ESFECafeteria.exe
+C:\Users\Adri\Desktop\ESFECafeteria\bin\Debug\ESFECafeteria.pdb
+C:\Users\Adri\Desktop\ESFECafeteria\obj\Debug\ESFECafeteria.exe
+C:\Users\Adri\Desktop\ESFECafeteria\obj\Debug\ESFECafeteria.pdb
+C:\Users\Adri\Desktop\ESFECafeteria\obj\Debug\ESFECafeteria.IngresarEmpleados.resources
+C:\Users\Adri\Desktop\ESFECafeteria\obj\Debug\ESFECafeteria.ingresarproductos.resources
+C:\Users\Adri\Desktop\ESFECafeteria\obj\Debug\ESFECafeteria.IngresarProveedores.resources
+C:\Users\Adri\Desktop\ESFECafeteria\obj\Debug\ESFECafeteria.Inicio.resources
